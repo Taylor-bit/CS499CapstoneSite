@@ -6,7 +6,7 @@
   <img src="headshot.jfif">
 </center>
 
-## Professional Self-Assessment
+## <center>Professional Self-Assessment</center>
 
     I have improved both my technical skills and my comprehension of what it takes to be a successful software developer during the courses throughout the Computer Science program and the creation of my ePortfolio. My career goals, which are focused on advancing into a development role within my current organization and continuing to develop as a well-rounded engineer, have been shaped by this experience. More significantly, it reiterated that flexibility, problem-solving skills, and continuous learning are necessary for success in this industry.
 
@@ -20,10 +20,10 @@
 
     Overall, these artifacts demonstrate my development progress and ability to approach challenges from a variety of perspectives, such as algorithm design, system architecture, and database management. They also illustrate my ability to contribute in a professional setting and continue to create high-quality, effective software solutions.
 
-## Code Review
+## <center>Code Review</center>
 
 <center>
-    <iframe width="500" src="https://www.youtube.com/embed/ohvK9R3RMXM" title="CS499 CodeReview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="750" src="https://www.youtube.com/embed/ohvK9R3RMXM" title="CS499 CodeReview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 ## <center>Artifact Updates</center>
@@ -54,6 +54,6 @@
 
     During the improvement of the artifact, I realized the importance of evaluating libraries and dependencies in use to create an app that functions well while also being safe and secure. I ran npm audit to identify dependency vulnerabilities and found a high-severity prototype pollution issue in a transitive development dependency (flatted) introduced through ESLint’s cache tooling. I traced the dependency path with npm ls flatted and applied dependency remediation steps to reduce the project’s security risk. See the attached screenshots below for additional context on the risk identification and mitigation process.
 
-## Repositories
+## <center>Repositories</center>
 
-[![Original Artifact](https://img.shields.io/badge/Repo-Original%20Artifact-navy?style=for-the-badge&logo=github)](https://github.com/Taylor-bit/CS360MobileArchitectAndProgramming) | [![Enhanced Artifact](https://img.shields.io/badge/Repo-Enhanced%20Artifact-yellow?style=for-the-badge&logo=github)](https://github.com/Taylor-bit/WeightTracker)
+<center>[![Original Artifact](https://img.shields.io/badge/Repo-Original%20Artifact-navy?style=for-the-badge&logo=github)](https://github.com/Taylor-bit/CS360MobileArchitectAndProgramming) [![Enhanced Artifact](https://img.shields.io/badge/Repo-Enhanced%20Artifact-yellow?style=for-the-badge&logo=github)](https://github.com/Taylor-bit/WeightTracker)</center>
