@@ -53,3 +53,9 @@
     The original iteration of the Weight Tracker application was very much a minimum viable product(MVP), and therefore, did not have much by way of convenience-enhancing features. This was one of the more obvious areas where my mobile app was lacking in comparison with other weight tracking mobile apps that I found in the Google Play Store. The functionality necessary for a user to export their weight data from the app was a database-related feature that I was seeing consistently when comparing my Weight Tracker mobile app to other ones in the Google Play Store. All of this led to my implementing an “Export Data” feature, which improved the convenience and accessibility of the application’s most important feature with only a single enhancement. With this enhancement in place, my project officially fully meets the course outcomes I planned to meet in Module One of this course.
 
     During the improvement of the artifact, I realized the importance of evaluating libraries and dependencies in use to create an app that functions well while also being safe and secure. I ran npm audit to identify dependency vulnerabilities and found a high-severity prototype pollution issue in a transitive development dependency (flatted) introduced through ESLint’s cache tooling. I traced the dependency path with npm ls flatted and applied dependency remediation steps to reduce the project’s security risk. See the attached screenshots below for additional context on the risk identification and mitigation process.
+
+## Repositories
+
+[[!StaticBadge("https://img.shields.io/badge/repo-Original_Artifact-navy.svg?style=for-the-badge&logo=github"]]("https://github.com/Taylor-bit/CS360MobileArchitectAndProgramming")
+
+[https://img.shields.io/badge/repo-Enhanced_Artifact-yellow.svg?style=for-the-badge&logo=github]("https://github.com/Taylor-bit/WeightTracker")
