@@ -56,6 +56,6 @@
 
 ## Repositories
 
-[[!StaticBadge("https://img.shields.io/badge/repo-Original_Artifact-navy.svg?style=for-the-badge&logo=github"]]("https://github.com/Taylor-bit/CS360MobileArchitectAndProgramming")
+[![Original Artifact](https://img.shields.io/badge/Repo-Original%20Artifact-navy?style=for-the-badge&logo=github)](https://github.com/Taylor-bit/CS360MobileArchitectAndProgramming)
 
-[https://img.shields.io/badge/repo-Enhanced_Artifact-yellow.svg?style=for-the-badge&logo=github]("https://github.com/Taylor-bit/WeightTracker")
+[![Enhanced Artifact](https://img.shields.io/badge/Repo-Enhanced%20Artifact-yellow?style=for-the-badge&logo=github)](https://github.com/Taylor-bit/WeightTracker)
