@@ -1,12 +1,12 @@
-# <center>Computer Science Capstone ePortfolio</center>
+# <div align="center">Computer Science Capstone ePortfolio</div>
 
-### <center>Taylor Colton</center>
+### <div align="center">Taylor Colton</div>
 
-<center>
+<div align="center">
   <img src="headshot.jfif">
-</center>
+</div>
 
-## <center>Professional Self-Assessment</center>
+## <div align="center">Professional Self-Assessment</div>
 
     I have improved both my technical skills and my comprehension of what it takes to be a successful software developer during the courses throughout the Computer Science program and the creation of my ePortfolio. My career goals, which are focused on advancing into a development role within my current organization and continuing to develop as a well-rounded engineer, have been shaped by this experience. More significantly, it reiterated that flexibility, problem-solving skills, and continuous learning are necessary for success in this industry.
 
@@ -20,15 +20,15 @@
 
     Overall, these artifacts demonstrate my development progress and ability to approach challenges from a variety of perspectives, such as algorithm design, system architecture, and database management. They also illustrate my ability to contribute in a professional setting and continue to create high-quality, effective software solutions.
 
-## <center>Code Review</center>
+## <div align="center">Code Review</div>
 
-<center>
+<div align="center">
     <iframe width="750" src="https://www.youtube.com/embed/ohvK9R3RMXM" title="CS499 CodeReview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</center>
+</div>
 
-## <center>Artifact Updates</center>
+## <div align="center">Artifact Updates</div>
 
-### <center>Enhancement One: Software Design and Engineering</center>
+### <div align="center">Enhancement One: Software Design and Engineering</div>
 
     The artifact I worked to improve for Milestone Two was my Weight Tracker application I wrote for the CS360 Mobile Architecture and Programming course. It was created in October of 2025 and was designed to enable users to set a goal weight and track their progress via daily weight entries. The original iteration of the Weight Tracker application was written primarily in Java and developed using Android Studio making it an Android native application and therefore incompatible with many mobile devices.
 
@@ -38,7 +38,7 @@
 
     In enhancing and essentially recreating the artifact I became much more familiar with using Expo Go to run and test a mobile application. React Native and Expo are still fairly new to me so learning common design patterns and how React Native applications behave was a large part of getting this enhancement completed. The biggest challenge I faced revolved around migrating this large of a project in the short time allowed. The timeline necessitated that I break down the application into smaller, more digestible sections in order to complete the enhancement on time.
 
-### <center>Enhancement Two: Algorithms and Data Structure</center>
+### <div align="center">Enhancement Two: Algorithms and Data Structure</div>
 
     This artifact is an improved version of the Weight Tracker mobile application I created for my coursework and then elected to add to my ePortfolio. In order to reach this milestone, I created a goal weight projection algorithm and a new page in the app that presents the user with the projected data. I chose this item for my ePortfolio because it demonstrates both my progress as a developer and my capacity to meaningfully enhance an already-existing application. Although users could already log and track their weight with the original app, this enhancement added a function that applies logic to user data instead of just storing and presenting it, making the app more useful for users. Given that it required me to examine patterns in stored weight-entry data and apply that information to forecast a possible goal-achievement date, the goal projection functionality demonstrates my proficiency with logical, arithmetic thinking. This enhanced the artifact's capability, practicality, and end-user benefit.
 
@@ -46,7 +46,7 @@
 
     I discovered that developing a valuable algorithm entails much more than just making code "work" during the process of upgrading this artifact. I had to carefully consider how to interpret user data so that the outcomes felt beneficial and logical rather than arbitrary. Since actual user input is frequently less predictable than ideal test data, one difficulty I encountered was determining how the projection should react when users had sparse or inconsistent data. I gained a greater understanding of the significance of striking a balance between logic, usability, and practical application design by working through it. All things considered, this enhancement not only improved my technical skills but also my comprehension of how algorithms might be applied to raise the caliber and utility of software.
 
-### <center>Enhancement Three: Databases</center>
+### <div align="center">Enhancement Three: Databases</div>
 
     The artifact I worked to improve for Milestone Four was my Weight Tracker application I wrote for the CS360 Mobile Architecture and Programming course. It was created in October of 2025 and was designed to enable users to set a goal weight and track their progress via daily weight entries. I chose this artifact to add to my ePortfolio because it was one of few projects that I coded from top to bottom throughout my CS degree program, and I felt it was important to show potential employers that I have the skills necessary to develop and maintain a project of this scale.
 
@@ -54,6 +54,6 @@
 
     During the improvement of the artifact, I realized the importance of evaluating libraries and dependencies in use to create an app that functions well while also being safe and secure. I ran npm audit to identify dependency vulnerabilities and found a high-severity prototype pollution issue in a transitive development dependency (flatted) introduced through ESLint’s cache tooling. I traced the dependency path with npm ls flatted and applied dependency remediation steps to reduce the project’s security risk. See the attached screenshots below for additional context on the risk identification and mitigation process.
 
-## <center>Repositories</center>
+## <div align="center">Repositories</div>
 
-<center>[![Original Artifact](https://img.shields.io/badge/Repo-Original%20Artifact-navy?style=for-the-badge&logo=github)](https://github.com/Taylor-bit/CS360MobileArchitectAndProgramming) [![Enhanced Artifact](https://img.shields.io/badge/Repo-Enhanced%20Artifact-yellow?style=for-the-badge&logo=github)](https://github.com/Taylor-bit/WeightTracker)</center>
+<div align="center">[![Original Artifact](https://img.shields.io/badge/Repo-Original%20Artifact-navy?style=for-the-badge&logo=github)](https://github.com/Taylor-bit/CS360MobileArchitectAndProgramming) [![Enhanced Artifact](https://img.shields.io/badge/Repo-Enhanced%20Artifact-yellow?style=for-the-badge&logo=github)](https://github.com/Taylor-bit/WeightTracker)</div>
