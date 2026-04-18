@@ -1,0 +1,41 @@
+# -------------------------
+# Jekyll build output
+# -------------------------
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# -------------------------
+# Bundler / Ruby
+# -------------------------
+.bundle/
+vendor/bundle/
+vendor/cache/
+vendor/gems/
+vendor/ruby/
+
+# -------------------------
+# OS / Editor junk
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
+
+# -------------------------
+# Node (only if you use it)
+# -------------------------
+node_modules/
+
+# -------------------------
+# Temporary files
+# -------------------------
+tmp/
+temp/
