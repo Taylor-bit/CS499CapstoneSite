@@ -62,7 +62,7 @@ During the improvement of the artifact, I realized the importance of evaluating 
 
 ## Repositories
 
-Each of these codebases exists in their own repository below:
+Each of these codebases exist in their own repository below:
 
 <a href="https://github.com/Taylor-bit/CS360MobileArchitectAndProgramming" style="flex: 1;">
 <img src="https://img.shields.io/badge/Repo-Original%20Artifact-navy?style=for-the-badge&logo=github" style="width: 25%;" />
