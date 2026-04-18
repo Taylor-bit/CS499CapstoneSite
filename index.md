@@ -17,4 +17,4 @@ Overall, these artifacts demonstrate my development progress and ability to appr
 
 ### Code Review
 
-<iframe width="560" height="315" src="https://youtu.be/ohvK9R3RMXM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="600" height="100%" controls src="https://youtu.be/ohvK9R3RMXM"></video>
