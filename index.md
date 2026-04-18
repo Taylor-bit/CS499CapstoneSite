@@ -17,4 +17,4 @@ Overall, these artifacts demonstrate my development progress and ability to appr
 
 ### Code Review
 
-<video width="600" height="100%" controls src="https://youtu.be/ohvK9R3RMXM"></video>
+<iframe width="1410" height="793" src="https://www.youtube.com/embed/ohvK9R3RMXM" title="CS499 CodeReview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
