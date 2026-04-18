@@ -1,0 +1,26 @@
+export function formatLocalDate(date: Date) {
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, "0");
+  const day = String(date.getDate()).padStart(2, "0");
+
+  return `${year}-${month}-${day}`;
+}
+
+export function parseLocalDate(dateString: string) {
+  const [year, month, day] = dateString.split("-").map(Number);
+  return new Date(year, month - 1, day);
+}
+
+export function getWeekStart(date: Date) {
+  const result = new Date(date);
+  const day = result.getDay(); // Sunday = 0
+  result.setDate(result.getDate() - day);
+  return result;
+}
+
+export function getWeekEnd(date: Date) {
+  const start = getWeekStart(date);
+  const end = new Date(start);
+  end.setDate(start.getDate() + 6);
+  return end;
+}
